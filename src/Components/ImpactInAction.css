@@ -1,0 +1,57 @@
+.impact-container {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Arial, sans-serif';
+    color: #333;
+  }
+  
+  .impact-title {
+    font-size: 24px;
+    margin-bottom: 5px;
+    color: #a5a5a5;
+    text-transform: uppercase;
+  }
+  
+  .impact-subtitle {
+    font-size: 36px;
+    margin-bottom: 30px;
+    color: #5a5a5a;
+    font-weight: bold;
+  }
+  
+  .impact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .impact-image img {
+    max-width: 300px;
+    border-radius: 50%;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+  }
+  
+  .impact-details {
+    margin-top: 20px;
+    max-width: 600px;
+  }
+  
+  .impact-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .impact-position {
+    font-size: 18px;
+    color: #777;
+    margin-bottom: 20px;
+  }
+  
+  .impact-quote {
+    font-size: 18px;
+    color: #555;
+    font-style: italic;
+    line-height: 1.5;
+  }
+  

@@ -1,0 +1,13 @@
+/* styles.css */
+<nav class="bg-gray-900 text-gray-300">
+  <div class="container mx-auto p-4 flex items-center justify-between">
+    <h1 class="text-2xl font-bold">BANKKA</h1>
+    <ul class="flex space-x-6">
+      <li><a href="javascript:void(0);" onClick={handleClick}>OUR PRODUCTS</a></li>
+      <li><"javascript:void(0);" onClick={handleClick}>TOOLS</a></li>
+      <li><"javascript:void(0);" onClick={handleClick}>BLOGS</a></li>
+      <li><"javascript:void(0);" onClick={handleClick}>ABOUT US</a></li>
+    </ul>
+    <button class="bg-yellow-500 hover:bg-yellow-600 text-gray-900 font-bold py-2 px-4 rounded">Sign In</button>
+  </div>
+</nav>
